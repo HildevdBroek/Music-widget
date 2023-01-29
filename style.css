@@ -28,9 +28,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50%;
-  filter: blur(40px);
-  -webkit-filter: blur(40px);
-  z-index: 1;
 }
 
 #bg-layer {
@@ -39,8 +36,8 @@ body {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: #fff;
-  opacity: 0.51;
+  background-color: #ffff;
+  opacity: 1;
   z-index: 2;
 }
 
